@@ -1,8 +1,15 @@
 # Navigating the skies: Analysing flight data with python
 
-## Description
+## Project Overview
 This project focuses on analyzing flight data to enhance operational efficiency and improve decision-making for airlines.By utilizing tools like Excel for data manipulation,Using libraries such as Pandas and Matplotlib, insights are extracted and visualized effectively,and Power BI for visualization, this process uncovers trends and insights.
 
+## Project Goals
+- To Analyze Flight Traffic Trends 
+- To Examine Flight Delays 
+- To Perform Geospatial Analysis 
+- To Compare Airline Performance
+- to Identify Seasonal Trends
+  
 ## Technologies Used
 - Python: Used libraries like Pandas,numpy,openpyxl,seaborn and Matplotlib for visualization.
 - Excel: For initial data cleaning and exploratory analysis
