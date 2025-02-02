@@ -1,5 +1,19 @@
 # Navigating the skies: Analysing flight data with python
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Goals](#project-goals)
+- [Data Structure Overview](#data-structure-overview)
+- [Executive Summary](#executive-summary)
+- [Insights Deepdive](#insights-deepdive)
+  - [Flight Traffic Trends](#flight-traffic-trends)
+  - [Time Series Analysis](#time-series-analysis)
+  - [Route Popularity](#route-popularity)
+- [Flight Delay Analysis](#Flight-Delay-Analysis)
+- [Geospatial Analysis](#Geospatial-Analysis)
+- [Price Comparision Analysis](#Price-Comparision-Analysis)
+- [Summary of Findings](#Summary-of-Findings)
+
 ## Project Overview
 This project aims to analyze flight data to uncover trends in air travel, focusing on flight traffic, delays, airline performance, and seasonal variations. Using Python libraries like Pandas, Matplotlib, we will explore the busiest routes, common delay causes, and air traffic patterns. Geospatial mapping will help visualize flight routes and congestion. The analysis will provide insights into airline efficiency and seasonal trends, helping to understand operational challenges in the aviation industry.
 
